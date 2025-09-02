@@ -1,0 +1,51 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (venv)
+venv/
+.env/
+*.env
+
+screenshots/
+
+# Editor files (optional, useful if you use VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# OS junk files (macOS and Linux temp files)
+.DS_Store
+Thumbs.db
+
+# Logs and runtime files
+*.log
+*.pid
+*.out
+*.err
+
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Testing/pytest
+.tox/
+.nox/
+.cache/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Systemd and service files (if you generate them)
+*.service
+
+# Python package files (if you accidentally generate them)
+*.tar.gz
+*.whl
+

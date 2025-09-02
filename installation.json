@@ -1,0 +1,9 @@
+{
+  "base_dir": "~/.qbox_app",
+  "pre": [],
+  "src": {
+    "cmd": "mv",
+    "destination": "~"
+  },
+  "post": []
+}
